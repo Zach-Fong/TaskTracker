@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "ask TA about computing assignment",
+      "day": "Thursday",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
